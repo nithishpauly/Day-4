@@ -1,0 +1,5 @@
+com\example\demo\entity\entity.class
+com\example\demo\controller\controller.class
+com\example\demo\ProjecApplication.class
+com\example\demo\repository\repositary.class
+com\example\demo\service\service.class
